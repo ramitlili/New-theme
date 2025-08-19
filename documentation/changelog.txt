@@ -1,0 +1,10 @@
+Agroland WordPress Theme - Changelog
+
+Version 1.0.0 - 08 August 2025
+
+* Initial release of the Agroland block theme.
+* Added multiple custom block patterns.
+* Included two style variations (Organic and AgriTech).
+* Added demo content for Organic Farm and AgriTech demos.
+* Provided companion plugin registering custom post types.
+* Added optional Elementor template kit.
